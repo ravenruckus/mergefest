@@ -26,14 +26,14 @@ Now lets pull but take our local changes:
 
 (In your normal repos to keep your changes, use `git pull upstream master -s recursive -X ours`)
 
-3. Edit this with your favorite fruit *here* and your favorite song *here*.
+3. Edit this with your favorite fruit *peaches* and your favorite song *what ever*.
 ----------------------------------------------
 
 Also, write anything you want below this line. :) 
 
 \/\/\/\/\/\/\/\/\/\/\/\/\/
    
-(**EDIT THIS LINE!**)
+(**What the crap!**)
    
 /\/\/\/\/\/\/\/\/\/\/\/\/\
 
